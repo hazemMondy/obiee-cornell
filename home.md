@@ -2,7 +2,7 @@
 
 [introduction](home/introduction.md)
 
-[lesson one](home/lesson.md)
+[lesson one](home/lesson%20one.md)
 
 [2. filters](home/2%20filters.md)
 
